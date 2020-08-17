@@ -1,0 +1,13 @@
+F:\Habr\нейросеть\Networks\Networks\Networks\bin\Debug\netcoreapp3.1\Networks.exe
+F:\Habr\нейросеть\Networks\Networks\Networks\bin\Debug\netcoreapp3.1\Networks.deps.json
+F:\Habr\нейросеть\Networks\Networks\Networks\bin\Debug\netcoreapp3.1\Networks.runtimeconfig.json
+F:\Habr\нейросеть\Networks\Networks\Networks\bin\Debug\netcoreapp3.1\Networks.runtimeconfig.dev.json
+F:\Habr\нейросеть\Networks\Networks\Networks\bin\Debug\netcoreapp3.1\Networks.dll
+F:\Habr\нейросеть\Networks\Networks\Networks\bin\Debug\netcoreapp3.1\Networks.pdb
+F:\Habr\нейросеть\Networks\Networks\Networks\obj\Debug\netcoreapp3.1\Networks.csprojAssemblyReference.cache
+F:\Habr\нейросеть\Networks\Networks\Networks\obj\Debug\netcoreapp3.1\Networks.AssemblyInfoInputs.cache
+F:\Habr\нейросеть\Networks\Networks\Networks\obj\Debug\netcoreapp3.1\Networks.AssemblyInfo.cs
+F:\Habr\нейросеть\Networks\Networks\Networks\obj\Debug\netcoreapp3.1\Networks.csproj.CoreCompileInputs.cache
+F:\Habr\нейросеть\Networks\Networks\Networks\obj\Debug\netcoreapp3.1\Networks.dll
+F:\Habr\нейросеть\Networks\Networks\Networks\obj\Debug\netcoreapp3.1\Networks.pdb
+F:\Habr\нейросеть\Networks\Networks\Networks\obj\Debug\netcoreapp3.1\Networks.genruntimeconfig.cache
